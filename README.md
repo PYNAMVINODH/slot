@@ -1,5 +1,5 @@
 
-# Ex03 Slot Time Table
+# Ex 03: [ Slot Time Table ]
 ## Date:01/10/2024
 ## Name:PYNAM VINODH
 ## Reg.No:212223240131
